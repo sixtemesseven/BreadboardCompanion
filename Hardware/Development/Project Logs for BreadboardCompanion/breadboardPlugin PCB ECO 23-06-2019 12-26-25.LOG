@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=L1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=WE-LQS 6045 New Footprint=WE-LQS 5040
+Change Component Footprint: Designator=L2 Old Footprint=WE-LQS 6045 New Footprint=WE-LQS 5040
+Change Component Comment : Designator=L1 Old Comment=74404064047 New Comment=74404054047
+Change Component Comment : Designator=L2 Old Comment=74404064047 New Comment=74404054047
+Change component parameters: Designator = "L1"; Footprint = "WE-LQS 5040"; UniqueID = "\YADZNURB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/74404054047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "4.7 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "WE-LQS 5040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74404054047"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "WE-LQS 5040"; UniqueID = "\VRGKHYLX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/74404054047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "4.7 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "WE-LQS 5040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74404054047"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2

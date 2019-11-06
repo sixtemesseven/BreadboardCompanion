@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=L1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=WE-PD-S-PB New Footprint=WE-LQS 6045
+Change Component Footprint: Designator=L2 Old Footprint=WE-PD-S-PB New Footprint=WE-LQS 6045
+Change Component Comment : Designator=L1 Old Comment=7447789004 New Comment=74404064047
+Change Component Comment : Designator=L2 Old Comment=7447789004 New Comment=74404064047
+Change component parameters: Designator = "L1"; Footprint = "WE-LQS 6045"; UniqueID = "\NHNOUSEV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/74404064047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "4.7 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "WE-LQS 6045"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74404064047"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "WE-LQS 6045"; UniqueID = "\KTKOTQFM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/74404064047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "4.7 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "WE-LQS 6045"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74404064047"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Member To Class: ClassName=main Member=Component C1 4.7uF
+Added Member To Class: ClassName=main Member=Component C2 4.7uF 0805
+Added Member To Class: ClassName=main Member=Component C3 100nF
+Added Member To Class: ClassName=main Member=Component C5 100nF
+Added Member To Class: ClassName=main Member=Component C6 10nF
+Added Member To Class: ClassName=main Member=Component C7 4.7nF C0G
+Added Member To Class: ClassName=main Member=Component C8 1uF
+Added Member To Class: ClassName=main Member=Component C10 220nF
+Added Member To Class: ClassName=main Member=Component C13 1uF
+Added Member To Class: ClassName=main Member=Component C14 1uF
+Added Member To Class: ClassName=main Member=Component DS1 TLMS1100-GS08
+Added Member To Class: ClassName=main Member=Component DS2 TLMS1100-GS08
+Added Member To Class: ClassName=main Member=Component DS3 TLMS1100-GS08
+Added Member To Class: ClassName=main Member=Component F1 ptc
+Added Member To Class: ClassName=main Member=Component F2 ptc
+Added Member To Class: ClassName=main Member=Component R3 tbd
+Added Member To Class: ClassName=main Member=Component R4 tbd
+Added Member To Class: ClassName=main Member=Component R5 330
+Added Member To Class: ClassName=main Member=Component R7 100R
+Added Member To Class: ClassName=main Member=Component R11 tbd
+Added Member To Class: ClassName=main Member=Component R12 tbd

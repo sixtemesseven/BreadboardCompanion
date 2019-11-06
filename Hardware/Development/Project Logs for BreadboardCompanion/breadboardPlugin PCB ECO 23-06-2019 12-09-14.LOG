@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=DS1-2
+Removed Pin From Net: NetName=GND Pin=DS3-1
+Removed Pin From Net: NetName=+12V Pin=F1-1
+Removed Pin From Net: NetName=-12V Pin=F2-1
+Removed Member From Class: ClassName=main Member=C15
+Removed Member From Class: ClassName=main Member=C16
+Removed Member From Class: ClassName=main Member=C17
+Removed Member From Class: ClassName=main Member=C18
+Removed Member From Class: ClassName=main Member=C21
+Removed Member From Class: ClassName=main Member=C22
+Removed Member From Class: ClassName=main Member=DS4
+Removed Member From Class: ClassName=main Member=DS5
+Removed Member From Class: ClassName=main Member=F3
+Removed Member From Class: ClassName=main Member=F4
+Removed Member From Class: ClassName=main Member=R20
+Removed Member From Class: ClassName=main Member=R22
+Change Component Designator: OldDesignator=C1 NewDesignator=C4a
+Change Component Designator: OldDesignator=C2 NewDesignator=C4b
+Change Component Designator: OldDesignator=C3 NewDesignator=C4c
+Change Component Designator: OldDesignator=C4 NewDesignator=C4d
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C1
+Change Component Designator: OldDesignator=C9 NewDesignator=C5a
+Change Component Designator: OldDesignator=C10 NewDesignator=C5b
+Change Component Designator: OldDesignator=C11 NewDesignator=C5c
+Change Component Designator: OldDesignator=C12 NewDesignator=C5d
+Change Component Designator: OldDesignator=C13 NewDesignator=C2
+Change Component Designator: OldDesignator=C14 NewDesignator=C3
+Change Component Designator: OldDesignator=C15 NewDesignator=C6
+Change Component Designator: OldDesignator=C16 NewDesignator=C7
+Change Component Designator: OldDesignator=C17 NewDesignator=C5
+Change Component Designator: OldDesignator=C18 NewDesignator=C8
+Change Component Designator: OldDesignator=C19 NewDesignator=C11
+Change Component Designator: OldDesignator=C20 NewDesignator=C12
+Change Component Designator: OldDesignator=C21 NewDesignator=C13
+Change Component Designator: OldDesignator=C22 NewDesignator=C14
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS1
+Change Component Designator: OldDesignator=DS4 NewDesignator=DS2
+Change Component Designator: OldDesignator=DS5 NewDesignator=DS3
+Change Component Designator: OldDesignator=F3 NewDesignator=F1
+Change Component Designator: OldDesignator=F4 NewDesignator=F2
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R5
+Change Component Designator: OldDesignator=R14 NewDesignator=R6
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R17 NewDesignator=R9
+Change Component Designator: OldDesignator=R19 NewDesignator=R10
+Change Component Designator: OldDesignator=R20 NewDesignator=R11
+Change Component Designator: OldDesignator=R22 NewDesignator=R12
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetDS2_2 New Net Name=NetDS1_2
+Change Net Name : Old Net Name=NetDS4_1 New Net Name=NetDS2_1
+Change Net Name : Old Net Name=NetDS5_2 New Net Name=NetDS3_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR11_2
+Added Member To Class: ClassName=main Member=Component C4a 4.7uF
+Added Member To Class: ClassName=main Member=Component C4b 4.7uF
+Added Member To Class: ClassName=main Member=Component C4c 4.7uF
+Added Member To Class: ClassName=main Member=Component C4d 4.7uF
+Added Member To Class: ClassName=main Member=Component C9 220nF
+Added Member To Class: ClassName=main Member=Component C10 220nF

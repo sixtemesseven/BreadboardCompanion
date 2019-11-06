@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0603(1608)100_M New Footprint=CAPC0603(1608)100_L
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C4
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC8_2

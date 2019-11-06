@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetD3_2 Pin=P5-2
+Removed Member From Class: ClassName=main Member=Q1
+Added Pin To Net: NetName=NetC3_2 Pin=C1-2
+Added Pin To Net: NetName=NetC3_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_2 Pin=C15-1
+Added Pin To Net: NetName=NetC3_2 Pin=D3-1
+Added Pin To Net: NetName=NetC3_2 Pin=L1-1
+Added Pin To Net: NetName=NetD3_2 Pin=L3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R7-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=VIN
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=P5-2
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=U1-6
+Added Net: Name=NetU1_5

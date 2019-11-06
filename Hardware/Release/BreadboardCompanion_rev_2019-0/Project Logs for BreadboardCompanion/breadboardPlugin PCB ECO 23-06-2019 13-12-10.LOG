@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PVR Pin=F1-2
+Removed Pin From Net: NetName=NVR Pin=F2-2
+Removed Pin From Net: NetName=PVR Pin=R6-1
+Removed Pin From Net: NetName=NVR Pin=R10-1
+Change Component Footprint: Designator=R6 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R8 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R9 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R10 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R11 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R12 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_L
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Added Pin To Net: NetName=NVR Pin=F1-2
+Added Pin To Net: NetName=PVR Pin=F2-2
+Added Pin To Net: NetName=NVR Pin=R6-1
+Added Pin To Net: NetName=PVR Pin=R10-1
+Change Net Name : Old Net Name=NVR New Net Name=PVR
+Change Net Name : Old Net Name=PVR New Net Name=NVR

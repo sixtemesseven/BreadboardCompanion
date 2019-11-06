@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=NetC1_2 Pin=F3-2
+Removed Member From Class: ClassName=main Member=F3
+Change Component Footprint: Designator=C15 Old Footprint=PNSC-ECA-1HM470 New Footprint=CAPC0805(2012)75_L
+Change Component Comment : Designator=R6 Old Comment=330 New Comment=3.3k
+Change Component Comment : Designator=R10 Old Comment=330 New Comment=3.3k
+Change Component Comment : Designator=C15 Old Comment=ECA-1HM470 New Comment=MOV
+Change component parameters: Designator = "C15"; Footprint = "CAPC0805(2012)75_L"; UniqueID = "\AHVULHLI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "0.75 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16a(CAPC1206(3216)190_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C16b(CAPC1206(3216)190_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC1_2 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16a-1
+Added Pin To Net: NetName=NetC1_2 Pin=C16a-2
+Added Pin To Net: NetName=GND Pin=C16b-1
+Added Pin To Net: NetName=NetC1_2 Pin=C16b-2
+Added Pin To Net: NetName=NetC1_2 Pin=D5-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=L3-2
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=main Member=Component C16a 47uF
+Added Member To Class: ClassName=main Member=Component C16b 47uF
